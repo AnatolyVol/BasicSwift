@@ -55,3 +55,8 @@ repeat {
 } while year > 0
 
 print("Сумма вклада через 5 лет:", cash)
+
+
+
+
+
